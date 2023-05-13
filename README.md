@@ -1,1 +1,4 @@
-# UTS_Visi_Komputer_Moh.Alfian.F_23420011_TIF20B
+# UTS VISI KOMPUTER
+# Nama : Moh Alfian Firmansyah
+# NIM : 23420011
+# Kelas : TIF 2020 B
